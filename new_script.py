@@ -1,1 +1,2 @@
-print 'This is a new script'
+for i in range(1,5):
+	print 'Count',i
